@@ -1,0 +1,6 @@
+{
+  "name": "CotaLicit - Pesquisa de Preços para Licitações com IA",
+  "description": "Plataforma inteligente de pesquisa de preços para processos licitatórios (Lei 14.133/2021). Reconhecimento automático de produtos por busca individual ou planilha, identificação de marcas, cotações de mercado e links comprobatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
